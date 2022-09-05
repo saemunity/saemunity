@@ -3,7 +3,7 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=C#&logoColor=#239120" alt="C# logo" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSharp-282C34?logo=CSharp&logoColor=#239120" alt="C# logo" title="C#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=FFFFFF" alt="Unity logo" title="Unity" height="25" /></span>
 &nbsp;
@@ -15,7 +15,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=css3&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=css3&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/docker-282C34?logo=git&logoColor=2496ED" alt="docker logo" title="docker" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
