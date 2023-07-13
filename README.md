@@ -45,6 +45,9 @@
   <a href="mailto:huanhoang.unity@gmail.com" target="top">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
   </a>
+  <a href="https://t.me/saemnhh" target="blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png"/>
+  </a>
 </div>
 
 <br>
