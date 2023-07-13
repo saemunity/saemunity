@@ -21,7 +21,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySQL&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span> -->
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
@@ -36,7 +36,7 @@
 <h2 align="center">Contacts</h2>
 <br>
 <div align="center">
-  <a href="https://www.facebook.com/huaanns" target="blank">
+  <a href="https://www.facebook.com/huaanss" target="blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
   </a>
   <!-- <a href="https://www.linkedin.com/in/saem-unity/" target="blank">
